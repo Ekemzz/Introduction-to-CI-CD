@@ -39,8 +39,17 @@
 
 👉 In short: GitHub Actions makes it easy to automate software workflows without leaving GitHub.
  Tasks.
- 1. <img width="790" height="316" alt="image" src="https://github.com/user-attachments/assets/58991db7-bf13-4bb5-ab0d-7096b79b19c6" />
+ 1. DEMO via images
+ <img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/f0f4cb23-1be6-4d23-a124-597caba18a8c" />
+ <img width="790" height="316" alt="image" src="https://github.com/user-attachments/assets/58991db7-bf13-4bb5-ab0d-7096b79b19c6" />
  <img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/cac90729-f947-4b08-83f4-d288296bc9f5" />
+ <img width="788" height="453" alt="image" src="https://github.com/user-attachments/assets/46ff6fff-7258-41d4-bd61-605656ae18a4" />
+ <img width="796" height="448" alt="image" src="https://github.com/user-attachments/assets/93e5cb37-468e-4d66-959c-bbcb364bf5db" />
+ <img width="824" height="456" alt="image" src="https://github.com/user-attachments/assets/e43e5293-a869-4b7c-9cca-b2a61d4864e1" />
+ <img width="805" height="469" alt="image" src="https://github.com/user-attachments/assets/8d4270fe-699f-47e7-8598-6a2cd4a3bea0" />
+
+
+
 
 
 
