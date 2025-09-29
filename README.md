@@ -38,6 +38,10 @@
 * Works well with cloud providers and external services.
 
 👉 In short: GitHub Actions makes it easy to automate software workflows without leaving GitHub.
+ Tasks.
+ 1. <img width="790" height="316" alt="image" src="https://github.com/user-attachments/assets/58991db7-bf13-4bb5-ab0d-7096b79b19c6" />
+ <img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/cac90729-f947-4b08-83f4-d288296bc9f5" />
+
 
 
 
