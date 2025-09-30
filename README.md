@@ -39,18 +39,29 @@
 
 👉 In short: GitHub Actions makes it easy to automate software workflows without leaving GitHub.
  Tasks.
- 1. DEMO via images
+ 1. DEMO via images. Repo clone url generated.
+    
  <img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/f0f4cb23-1be6-4d23-a124-597caba18a8c" />
- <img width="790" height="316" alt="image" src="https://github.com/user-attachments/assets/58991db7-bf13-4bb5-ab0d-7096b79b19c6" />
- <img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/cac90729-f947-4b08-83f4-d288296bc9f5" />
- <img width="788" height="453" alt="image" src="https://github.com/user-attachments/assets/46ff6fff-7258-41d4-bd61-605656ae18a4" />
+ 2. Git repo is cloned in my local ubuntu virtual machine.
+   
+  <img width="790" height="316" alt="image" src="https://github.com/user-attachments/assets/58991db7-bf13-4bb5-ab0d-7096b79b19c6" />
+  3. The directory cloned is npm initialised. Package was generated as the default prompts were accepted.
+  <img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/cac90729-f947-4b08-83f4-d288296bc9f5" />
+
+   4. an package.json file was created.
+  <img width="788" height="453" alt="image" src="https://github.com/user-attachments/assets/46ff6fff-7258-41d4-bd61-605656ae18a4" />
+  5. Index.js file was created and the contents were inserted. an express.js file.
  <img width="796" height="448" alt="image" src="https://github.com/user-attachments/assets/93e5cb37-468e-4d66-959c-bbcb364bf5db" />
  <img width="824" height="456" alt="image" src="https://github.com/user-attachments/assets/e43e5293-a869-4b7c-9cca-b2a61d4864e1" />
+ 6. the directory was initiatised, changes were staged and ready to push.
  <img width="805" height="469" alt="image" src="https://github.com/user-attachments/assets/8d4270fe-699f-47e7-8598-6a2cd4a3bea0" />
 <img width="708" height="461" alt="image" src="https://github.com/user-attachments/assets/159e6be7-4706-43b9-b6f7-e3b591dab564" />
+7. the workflow directory was created using "mkdir -p .github/workflows". and this editor "vim .github/workflows/node.js.yml
+" was used to edit the file.
 <img width="947" height="424" alt="image" src="https://github.com/user-attachments/assets/5877878a-d261-448d-ab58-fef2a48bba35" />
 <img width="959" height="275" alt="image" src="https://github.com/user-attachments/assets/3b9d469e-a0f0-4963-b508-b1365a4faeac" />
 <img width="811" height="457" alt="image" src="https://github.com/user-attachments/assets/4ee56859-f490-4283-8a20-d728c0e9ed75" />
+8. The changes were pushed and the actions section on the remote repo was evaluted for build status.
 <img width="862" height="477" alt="image" src="https://github.com/user-attachments/assets/21ba7fc1-ba14-44d1-8270-9b4f5052e57d" />
 
 
