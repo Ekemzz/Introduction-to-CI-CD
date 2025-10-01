@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/Ekemzz/Introduction-to-CI-CD#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^27.5.1"
   }
 }
