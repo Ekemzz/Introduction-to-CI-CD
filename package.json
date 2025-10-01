@@ -4,7 +4,7 @@
   "description": "a node.js project used as demo for CI/CD demo via git actions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Ekemzz/Introduction-to-CI-CD/issues"
   },
-  "homepage": "https://github.com/Ekemzz/Introduction-to-CI-CD#readme"
+  "homepage": "https://github.com/Ekemzz/Introduction-to-CI-CD#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
